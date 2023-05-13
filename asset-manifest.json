@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-site/static/css/main.b45dd29c.css",
-    "main.js": "/portfolio-site/static/js/main.6bd0bce3.js",
+    "main.js": "/portfolio-site/static/js/main.50b41a43.js",
     "static/js/787.37faa4c4.chunk.js": "/portfolio-site/static/js/787.37faa4c4.chunk.js",
     "static/media/20220822_110747_thin.png": "/portfolio-site/static/media/20220822_110747_thin.9a22b8c3979c096b564c.png",
     "static/media/ScolorShot.png": "/portfolio-site/static/media/ScolorShot.a685150d5a10f4450ceb.png",
@@ -25,13 +25,13 @@
     "static/media/mechgame.png": "/portfolio-site/static/media/mechgame.322f9e70b6cc64e3c2d5.png",
     "static/media/topclearance_at_285_units.png": "/portfolio-site/static/media/topclearance_at_285_units.13517e17a76555389f23.png",
     "index.html": "/portfolio-site/index.html",
-    "static/media/handle.svg": "/portfolio-site/static/media/handle.d3cbcb0382b832ece76d1ec74b8f02a0.svg",
+    "static/media/handle.svg": "/portfolio-site/static/media/handle.1979a958022d52137ab8bc131b9789ec.svg",
     "main.b45dd29c.css.map": "/portfolio-site/static/css/main.b45dd29c.css.map",
-    "main.6bd0bce3.js.map": "/portfolio-site/static/js/main.6bd0bce3.js.map",
+    "main.50b41a43.js.map": "/portfolio-site/static/js/main.50b41a43.js.map",
     "787.37faa4c4.chunk.js.map": "/portfolio-site/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b45dd29c.css",
-    "static/js/main.6bd0bce3.js"
+    "static/js/main.50b41a43.js"
   ]
 }
