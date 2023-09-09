@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b45dd29c.css",
-    "main.js": "/static/js/main.4e2926fd.js",
+    "main.js": "/static/js/main.0435d0cd.js",
     "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
     "static/media/20220822_110747_thin.png": "/static/media/20220822_110747_thin.9a22b8c3979c096b564c.png",
     "static/media/ScolorShot.png": "/static/media/ScolorShot.a685150d5a10f4450ceb.png",
@@ -9,15 +9,19 @@
     "static/media/clearanceCandidate.png": "/static/media/clearanceCandidate.17afda9f7fe8c8cc9ae9.png",
     "static/media/32dafaad-c032-4dd1-9d10-4dd607e6d179.pdf": "/static/media/32dafaad-c032-4dd1-9d10-4dd607e6d179.ad7da5a85c0c7aa48cba.pdf",
     "static/media/Nov29UML.png": "/static/media/Nov29UML.34a3599c0a333ae8fc04.png",
+    "static/media/capstonedashboard.png": "/static/media/capstonedashboard.18be91dd64971d390957.png",
     "static/media/strimcurvature.png": "/static/media/strimcurvature.09912142203229b963d0.png",
     "static/media/strimlinearity.png": "/static/media/strimlinearity.d3f826d32b6ddd7c813d.png",
     "static/media/clearanceThumbnail.png": "/static/media/clearanceThumbnail.82a6291fd0c0b3b0c081.png",
     "static/media/storyboard.png": "/static/media/storyboard.0db0295e0cc995252246.png",
     "static/media/prototype.png": "/static/media/prototype.6ded2ff0d15060fed7dd.png",
     "static/media/gamejam-nov-2020.png": "/static/media/gamejam-nov-2020.27f6955bba4bb87057c2.png",
+    "static/media/capstonemm.png": "/static/media/capstonemm.0a9716a1eeb5bbf4c16c.png",
     "static/media/nsercjobscheduler.png": "/static/media/nsercjobscheduler.c6ce97cfd20ef3a6ee95.png",
     "static/media/leftview_at_285_units.png": "/static/media/leftview_at_285_units.5e195fcbfbb7ff196bf2.png",
+    "static/media/capstonegh.png": "/static/media/capstonegh.07bed835617f08074e39.png",
     "static/media/rightview_at_285_units.png": "/static/media/rightview_at_285_units.018239692b240d2f6dde.png",
+    "static/media/ghautomation.png": "/static/media/ghautomation.1a01fd0dae077c27159d.png",
     "static/media/ceilingview_at_285_units.png": "/static/media/ceilingview_at_285_units.01737c6996dd6d0aae41.png",
     "static/media/BookApp.png": "/static/media/BookApp.f85a9ef3e367c684767b.png",
     "static/media/sideclearance_at_285_units.png": "/static/media/sideclearance_at_285_units.4df010818832c9cca120.png",
@@ -27,11 +31,11 @@
     "index.html": "/index.html",
     "static/media/handle.svg": "/static/media/handle.1979a958022d52137ab8bc131b9789ec.svg",
     "main.b45dd29c.css.map": "/static/css/main.b45dd29c.css.map",
-    "main.4e2926fd.js.map": "/static/js/main.4e2926fd.js.map",
+    "main.0435d0cd.js.map": "/static/js/main.0435d0cd.js.map",
     "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b45dd29c.css",
-    "static/js/main.4e2926fd.js"
+    "static/js/main.0435d0cd.js"
   ]
 }
